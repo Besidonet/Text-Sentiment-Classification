@@ -1,7 +1,0 @@
-spacy==3.7.2
-scikit-learn==1.5.0
-pandas
-numpy
-streamlit
-matplotlib
-seaborn
